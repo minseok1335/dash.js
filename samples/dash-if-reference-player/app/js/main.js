@@ -6,7 +6,7 @@
 
 import {$, fetchJSON, show} from './UIHelpers.js';
 import {PlayerController} from './PlayerController.js';
-import {ControlBar} from '../../../../contrib/controlbar/ControlBar.js';
+import {ControlBar} from '../../contrib/controlbar/ControlBar.js';
 import {StreamCatalog} from './StreamCatalog.js';
 import {SettingsController} from './SettingsController.js';
 import {DrmController} from './DrmController.js';
